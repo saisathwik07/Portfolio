@@ -11,7 +11,7 @@ const ResumeSection = () => {
           </p>
           <div className="mt-8">
             <a
-              href="https://drive.google.com/file/d/1PxIjv5j-FJJZOAN-goRjD6y0-k8bkM74/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1xaqjPVk76AKhwKWFDaohUhGzDTNVXupm/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="gold-btn"
