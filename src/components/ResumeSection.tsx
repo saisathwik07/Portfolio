@@ -11,7 +11,7 @@ const ResumeSection = () => {
           </p>
           <div className="mt-8">
             <a
-              href="https://drive.google.com/file/d/1f6XSMfOltBPGhUm8ntIWvbfRGIYoAc4_/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1xaqjPVk76AKhwKWFDaohUhGzDTNVXupm/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="gold-btn"
@@ -25,7 +25,7 @@ const ResumeSection = () => {
         <div className="text-center mb-12">
           <h3 className="text-3xl font-bold text-foreground">Experience</h3>
         </div>
-          <div className="max-w-3xl mx-auto space-y-8 mb-16">
+        <div className="max-w-3xl mx-auto space-y-8 mb-16">
           <div className="border-l-4 border-primary pl-6 py-2">
             <span className="text-primary font-semibold">March 2025 – April 2025</span>
             <h4 className="text-xl font-bold text-foreground mt-1">Web Development Intern</h4>
